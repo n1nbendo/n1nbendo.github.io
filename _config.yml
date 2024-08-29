@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Ben's Blog"
-description:	       "this blog details my travels and experiences as a Peace Corps volunteer in Tanzania"
+description:	       "This blog details my travels and experiences as a Peace Corps volunteer in Tanzania"
 author:              "Ben Weber"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
