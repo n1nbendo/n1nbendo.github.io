@@ -4,7 +4,7 @@ title: "Touchdown in Tanzania"
 author: "Ben Weber"
 categories: resources
 tags: [documentation,sample]
-image: IMG_5395.JPG
+image: IMG_5395.jpg
 ---
 
 I've been in Tanzania for over a month now, but I've been so busy that it's gone by so quickly.
