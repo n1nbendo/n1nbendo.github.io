@@ -4,7 +4,7 @@ title: "Touchdown in Tanzania"
 author: "Ben Weber"
 categories: resources
 tags: [documentation,sample]
-image: IMG_5395.JPG
+image: IMG_5395.jpg
 ---
 
 I've been in Tanzania for over a month now. It’s a very pretty country with a diverse landscape and very welcoming people. I had hoped to update this blog sooner, but I have been very busy with training.
