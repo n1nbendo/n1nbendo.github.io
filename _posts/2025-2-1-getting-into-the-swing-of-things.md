@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Week Of School"
+title: "Getting Into The Swing Of Things"
 author: "Ben Weber"
 categories: resources
 tags: [documentation,sample]
