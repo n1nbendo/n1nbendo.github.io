@@ -4,7 +4,7 @@ title: "The Kitchen is Done!"
 author: "Ben Weber"
 categories: resources
 tags: [documentation,sample]
-image: kitchen.jpg
+image: kitchen.JPG
 ---
 I’M FINALLY DONE WITH THIS PROJECT. I AM SO RELIEVED!!!
 
