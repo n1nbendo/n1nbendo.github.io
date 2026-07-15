@@ -1,0 +1,19 @@
+---
+layout: post
+title: "My Thoughts on Ai"
+author: "Ben Weber"
+categories: resources
+tags: [documentation,sample]
+image: rainbow.jpg
+---
+I have been contemplating Artificial Intelligence and how I’ve seen it be used in Tanzania. To preface, I am not a fan of how Ai is currently being used and developed in the United States specifically. I’m skeptical of its use in fields like education and business and am fearful of its use in health and military. 
+
+In Tanzania, I’ve seen many of my fellow teachers use the Meta Ai on Facebook or WhatsApp to solve problems, create lesson plans, or for asking questions about current events. Earlier this year, some Form Four students came into the teacher’s office asking for help from the math teachers on a problem they had been assigned. Like many questions on the exams and in the textbooks in Tanzania, the question had been written incorrectly. Despite the error, I was able to solve the problem by hand using the rest of the context clues in the problem and let my fellow math teacher explain the work to the students in Swahili. Afterwards, I saw the other math teacher use Meta Ai on Facebook to solve the question again.
+
+Since I’ve started teaching, I’ve regularly checked in on the teaching subreddit for ideas to incentivize engagement and tips to make me feel more confident in the classroom. I’ve seen many posts in the last two years of teachers struggling to combat the use of Ai on homework. Often, I see many teachers ask for help on how to combat Ai or share examples of how their students used Ai to solve homework or classwork. I don’t blame the students, I know that if I was in elementary, middle, or high school right now I would use Ai to get my homework done. It is so much easier than having to think and I know that a younger me would choose the easiest option in life. But as a new teacher, I understand the frustration in seeing students turn off their brains. Although my students don’t have access to the internet and Ai like students in the United States do, many students are checked out during my lessons since they don’t care for math.
+
+I am uncertain of how Ai is impacting and will impact the United States. Such as the job market, education, health, and anything else Ai can implemented into. I don’t like how data centers are being built and putting more strain on the environment and energy grid in the United States. I fear the self-cannibalizing effect Ai has on the internet. But I also see how Ai is helping people teach, learn, or make life easier. I have spent a lot of time thinking about the inventions of the dishwasher, dryer, refrigerator, and washer. Since I don’t have access to these appliances, I spend a few hours each week doing these chores by hand. I miss the luxury of being able to do other tasks while washing my clothes or the dishes. But like these technologies, Ai is a tool that people in Tanzania use to make their lives easier without the infrastructure required for the appliances I listed above.
+
+Another anecdote on Ai that comes to mind is when I was evacuated to South Africa last year. A few of my friends and I downloaded the common dating apps for fun. I remember seeing an alarming number of profiles where people openly admitted they used ChatGPT for advice or to make decisions in their life. The pessimistic side of me is scared to see so many of my peers openly accept this unknown technology and let it have a massive influence on their life.
+
+I hope to see a future where Ai is used to help solve problems humans cannot. But I am not certain that is the goal of the people working for these Ai companies.
