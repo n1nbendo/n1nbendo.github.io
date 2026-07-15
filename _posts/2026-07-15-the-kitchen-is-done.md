@@ -20,4 +20,6 @@ I am awaiting a donor list from Peace Corps for those who donated, but you know 
 
 In other good news, I received funding for my second project this week. This project will support students and people in my village living with HIV by constructing 60 beehives near the school. The honey will be used for nutritional purposes, and excess can be sold for income generation. We’re aiming to be done with this project before August, but unfortunately I won’t be around to see the first collection of honey.
 
-I leave here in less than five months. Truthfully, I am ready to go home. This has been the longest period I have been away from my family and life here is dull at times. I am glad that even after I leave, these projects will continue to support my community for many years to come.
+I leave here in less than five months. Truthfully, I am ready to go home. This has been the longest period I have been away from my family. I have thoroughly enjoyed my time here and have experience immense personal growth. But life here is dull at times and I see the light at the end of the tunnel that leads to something new. 
+
+I don’t think I am alone amongst my peers of counting down the days until we can go home. I am relieved these projects are starting and ending now, since I am finding it harder to motivate myself here. But most of all, I am glad I will have a lasting impact through these projects as they will continue to support my community for many years to come.
